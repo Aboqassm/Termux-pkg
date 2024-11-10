@@ -5,3 +5,11 @@ Copy the commands in order termux
 2.apt install cowsay
 
 3.apt install toilet
+
+4.cd Termux-pkg
+
+5.mv tool.sh $HOME
+
+6.cd
+
+7.bash tool.sh
